@@ -1,4 +1,4 @@
-NAME = spali/docker-nginx
+NAME = spali/nginx
 VERSION = latest
 
 .PHONY: all build
